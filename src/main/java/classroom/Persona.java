@@ -49,13 +49,13 @@ public class Persona {
     void setCedula(int cedula) {
         this.cedula = cedula;
     }
-//    String getNombre() {
-//        return nombre;
-//    }
-//
-//    void setNombre(String nombre) {
-//        this.nombre = nombre;
-//    }
+    String getNombre() {
+        return nombre;
+    }
+
+    void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
 
 }
 
